@@ -1,0 +1,10 @@
+
+crewai_tools==0.1.6
+requests
+crewai==0.28.8
+langchain_community==0.0.29
+duckduckgo-search 
+docx
+streamlit
+python-docx
+flask==3.1.0
