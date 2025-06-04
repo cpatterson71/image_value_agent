@@ -1,5 +1,6 @@
 
 crewai_tools==0.1.6
+pip ==25.1.1
 requests
 crewai==0.28.8
 langchain_community==0.0.29
