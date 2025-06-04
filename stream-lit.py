@@ -12,8 +12,9 @@ import streamlit as st
 buffer, col2, col3 = st.columns([1, 20, 60])
 
 with col2:
-    player = st.sidebar.text_input("file name"),
+    player = st.sidebar.text_input("player name"),
     image = st.sidebar.file_uploader("Choose a file", accept_multiple_files=True)
+
 
 with col3:
     Markdown(results)
