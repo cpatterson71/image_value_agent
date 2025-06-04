@@ -6,7 +6,7 @@
 # run the agent
 # print the report
 # save the report with the input name
-! pip install -- upgrade pip
+pip install -- upgrade pip
 
 from xml.dom.minidom import Document
 import streamlit as st
