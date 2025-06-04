@@ -6,6 +6,9 @@
 # run the agent
 # print the report
 # save the report with the input name
+import pip 
+
+
 pip install -- upgrade pip
 
 from xml.dom.minidom import Document
